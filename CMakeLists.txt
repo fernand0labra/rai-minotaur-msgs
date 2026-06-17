@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(custom_msgs)
+project(ros2_snake_control_msgs)
 
 # Default to C++17
 if(NOT CMAKE_CXX_STANDARD)
