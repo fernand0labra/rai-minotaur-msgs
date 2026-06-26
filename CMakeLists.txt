@@ -22,6 +22,7 @@ set(msg_files
   "msg/MotorPositions.msg"
   "msg/ActuatorStatusArray.msg"
   "msg/ControlSpeedArray.msg"
+  "msg/MagneticField.msg"
   "msg/ModuleInertialMeasurement.msg"
   "msg/ModuleInertialMeasurementArray.msg"
   "msg/ForceSensor.msg"
